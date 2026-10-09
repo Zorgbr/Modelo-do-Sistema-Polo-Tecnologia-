@@ -30,6 +30,8 @@ O sistema é dividido em quatro pilares fundamentais:
 
 *   Front-end: Next.js 
 *   Back-end: TypeScript
-*   Banco de Dados: PostgreSQL 
+*   Banco de Dados: PostgreSQL
+
+  https://github.com/Zorgbr/Modelo-do-Sistema-Polo-Tecnologia-/blob/c2bb8d7c9e2a8b11e087c8792bd345988ee66b03/Imagens%20sistema/-Sistema%20de%20Frequ%C3%AAncia%20-%20Google%20Chrome%2008_10_2026%2022_10_07.png
    
 
