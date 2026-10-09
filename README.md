@@ -37,4 +37,5 @@ O sistema é dividido em quatro pilares fundamentais:
   [frequencia 1](https://github.com/Zorgbr/Modelo-do-Sistema-Polo-Tecnologia-/blob/78e44e685dae1000f855b165e02da13f20ad7b80/Imagens%20sistema/-Sistema%20de%20Frequ%C3%AAncia%20-%20Google%20Chrome%2008_10_2026%2022_10_30.png).
   [Frequencia 2](https://github.com/Zorgbr/Modelo-do-Sistema-Polo-Tecnologia-/blob/9b38c873c30a2d1a1cb0cf8e1ef8d9410e67755e/Imagens%20sistema/-Sistema%20de%20Frequ%C3%AAncia%20-%20Google%20Chrome%2008_10_2026%2022_10_34.png).
   [Historicos](https://github.com/Zorgbr/Modelo-do-Sistema-Polo-Tecnologia-/blob/78e44e685dae1000f855b165e02da13f20ad7b80/Imagens%20sistema/-Sistema%20de%20Frequ%C3%AAncia%20-%20Google%20Chrome%2008_10_2026%2022_10_56.png).
+  [Estrutura](https://github.com/Zorgbr/Modelo-do-Sistema-Polo-Tecnologia-/blob/b6bf6253db354855a455de1fd81a8728605b959b/Imagens%20sistema/Visualizer%20_%20Database.png).
 
