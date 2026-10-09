@@ -32,7 +32,8 @@ O sistema é dividido em quatro pilares fundamentais:
 *   Back-end: TypeScript
 *   Banco de Dados: PostgreSQL
 
-  !([Dashboard](https://github.com/Zorgbr/Modelo-do-Sistema-Polo-Tecnologia-/blob/c2bb8d7c9e2a8b11e087c8792bd345988ee66b03/Imagens%20sistema/-Sistema%20de%20Frequ%C3%AAncia%20-%20Google%20Chrome%2008_10_2026%2022_10_07.png)
-   !([Cursos](https://github.com/Zorgbr/Modelo-do-Sistema-Polo-Tecnologia-/blob/86344945fcc2c0040cced1d1ffc7e1fa9b0752d2/Imagens%20sistema/-Sistema%20de%20Frequ%C3%AAncia%20-%20Google%20Chrome%2008_10_2026%2022_10_22.png)
+  [Dashboard](https://github.com/Zorgbr/Modelo-do-Sistema-Polo-Tecnologia-/blob/c2bb8d7c9e2a8b11e087c8792bd345988ee66b03/Imagens%20sistema/-Sistema%20de%20Frequ%C3%AAncia%20-%20Google%20Chrome%2008_10_2026%2022_10_07.png)
+  [Cursos](https://github.com/Zorgbr/Modelo-do-Sistema-Polo-Tecnologia-/blob/86344945fcc2c0040cced1d1ffc7e1fa9b0752d2/Imagens%20sistema/-Sistema%20de%20Frequ%C3%AAncia%20-%20Google%20Chrome%2008_10_2026%2022_10_22.png)
+  [frequencia 1](https://github.com/Zorgbr/Modelo-do-Sistema-Polo-Tecnologia-/blob/78e44e685dae1000f855b165e02da13f20ad7b80/Imagens%20sistema/-Sistema%20de%20Frequ%C3%AAncia%20-%20Google%20Chrome%2008_10_2026%2022_10_30.png)
    
 
